@@ -1,3 +1,4 @@
+import "./translation.css"; 
 function Translation() {
     return (
       
